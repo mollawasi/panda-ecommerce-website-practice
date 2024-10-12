@@ -1,0 +1,20 @@
+.container{
+    margin-bottom: 100px;
+}
+.orange-bg{
+    background-color: #feeae9;
+    border-radius: 10px;
+}
+.d-flex{
+    padding: 20px 40px;
+}
+.price{
+    color: #ff006a;
+}
+.buy-btn{
+    background-image: linear-gradient(to bottom, #ff8bbb 0%, #ff006a);
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+}
